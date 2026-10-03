@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Salony</string>
+    <string name="tagline">Book your appointment in one touch</string>
+
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="privacy_check">I have read and agree to the privacy policy</string>
+    <string name="privacy_accept">Agree and Continue</string>
+    <string name="manage_ads">Manage Ad Choices</string>
+    <string name="no_ad_options">No additional ad options required in your region.</string>
+    <string name="privacy_text">Last updated: October 2026\n\n1. Information We Collect\n• Account Information: Name, email, and password to create and access your account.\n• Booking Information: Selected salon, services, date, and appointment time.\n\n2. How We Use Your Data\nWe use your data solely to manage your account, bookings, and improve our service. We do not sell your personal data.\n\n3. Advertising (Google AdMob)\nThe app displays ads via Google AdMob. Google and its partners may use the advertising ID on your device and technical data to display and measure ads. In applicable regions, we obtain your consent via Google UMP form.\n\n4. Data Retention and Deletion\nWe keep your data as long as your account is active. You may request deletion of your account and data at any time.\n\n5. Security\nWe implement reasonable technical measures to protect your data.\n\n6. Contact Us\nFor inquiries: support@example.com</string>
+
+    <string name="login_title">Welcome</string>
+    <string name="login">Log In</string>
+    <string name="register">Sign Up</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don\'t have an account? Sign up</string>
+    <string name="have_account">Already have an account? Log in</string>
+    <string name="fill_fields">Please fill in all fields</string>
+
+    <string name="salons">Salons</string>
+    <string name="appointments">My Appointments</string>
+    <string name="empty_salons">No salons available right now</string>
+    <string name="empty_appts">No appointments yet</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="menu_logout">Log Out</string>
+
+    <string name="choose_services">Choose Services</string>
+    <string name="choose_date">Select Date</string>
+    <string name="choose_time">Select Time</string>
+    <string name="confirm">Confirm Booking</string>
+    <string name="total">Total: %1$s %2$s</string>
+    <string name="select_service">Please select at least one service</string>
+    <string name="select_datetime">Please select date and time</string>
+    <string name="booked">Appointment booked successfully ✨</string>
+
+    <string name="switch_language">Switch Language</string>
+    <string name="greeting">Welcome %1$s</string>
+    <string name="appointment">Appointment</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_confirmed">Confirmed</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="duration_mins">Duration: %1$s min</string>
+    <string name="unexpected_response">Unexpected response from server</string>
+    <string name="server_error">Unable to connect to server. Check network and server address.</string>
+    <string name="lang_toggle_label">عربي</string>
+</resources>

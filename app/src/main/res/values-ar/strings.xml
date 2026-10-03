@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Salony</string>
+    <string name="tagline">احجز موعدك بلمسة واحدة</string>
+
+    <string name="privacy_title">سياسة الخصوصية</string>
+    <string name="privacy_check">قرأت سياسة الخصوصية وأوافق عليها</string>
+    <string name="privacy_accept">موافق ومتابعة</string>
+    <string name="manage_ads">إدارة خيارات الإعلانات</string>
+    <string name="no_ad_options">لا توجد خيارات إضافية للإعلانات مطلوبة في منطقتك.</string>
+    <string name="privacy_text">آخر تحديث: أكتوبر 2026\n\n١. المعلومات التي نجمعها\n• بيانات الحساب: الاسم والبريد الإلكتروني وكلمة المرور، وذلك لإنشاء حسابك وتسجيل دخولك.\n• بيانات الحجز: الصالون والخدمات المختارة وتاريخ الموعد ووقته.\n\n٢. كيف نستخدم بياناتك\nنستخدمها فقط لإدارة حسابك وحجوزاتك وتحسين الخدمة. لا نبيع بياناتك الشخصية لأي جهة.\n\n٣. الإعلانات (Google AdMob)\nيعرض التطبيق إعلانات عبر Google AdMob. قد تستخدم Google وشركاؤها معرّف الإعلانات في جهازك وبيانات تقنية (مثل عنوان IP ونوع الجهاز) لعرض الإعلانات وقياس أدائها، وقد تكون الإعلانات مخصّصة بحسب موافقتك.\nفي المناطق التي يشترط فيها القانون ذلك (مثل المنطقة الاقتصادية الأوروبية والمملكة المتحدة) نطلب موافقتك عبر نموذج Google الرسمي للموافقة (UMP)، ويمكنك تغيير اختيارك في أي وقت من زر «إدارة خيارات الإعلانات» أدناه.\nيمكنك أيضاً إعادة تعيين معرّف الإعلانات أو حذفه من إعدادات جهازك.\nالتطبيق غير موجّه للأطفال دون 13 سنة.\nلمزيد من المعلومات: policies.google.com/technologies/ads\n\n٤. الاحتفاظ بالبيانات وحذفها\nنحتفظ ببياناتك طالما حسابك نشط. يمكنك طلب حذف حسابك وبياناتك في أي وقت بمراسلتنا.\n\n٥. الأمان\nنتخذ إجراءات تقنية معقولة لحماية بياناتك، ولا يوجد نظام آمن بنسبة 100٪.\n\n٦. حقوقك\nيحق لك الاطلاع على بياناتك وتصحيحها أو حذفها أو الاعتراض على معالجتها وفق القوانين المعمول بها، ومنها القانون المغربي رقم 09-08 المتعلق بحماية المعطيات ذات الطابع الشخصي.\n\n٧. التواصل\nلأي استفسار: support@example.com</string>
+
+    <string name="login_title">مرحباً بك</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">إنشاء حساب</string>
+    <string name="name">الاسم الكامل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="no_account">ليس لديك حساب؟ أنشئ حساباً</string>
+    <string name="have_account">لديك حساب؟ سجّل الدخول</string>
+    <string name="fill_fields">يرجى ملء جميع الحقول</string>
+
+    <string name="salons">الصالونات</string>
+    <string name="appointments">مواعيدي</string>
+    <string name="empty_salons">لا توجد صالونات حالياً</string>
+    <string name="empty_appts">لا توجد مواعيد بعد</string>
+    <string name="menu_privacy">سياسة الخصوصية</string>
+    <string name="menu_logout">تسجيل الخروج</string>
+
+    <string name="choose_services">اختر الخدمات</string>
+    <string name="choose_date">اختر التاريخ</string>
+    <string name="choose_time">اختر الوقت</string>
+    <string name="confirm">تأكيد الحجز</string>
+    <string name="total">المجموع: %1$s %2$s</string>
+    <string name="select_service">اختر خدمة واحدة على الأقل</string>
+    <string name="select_datetime">اختر التاريخ والوقت</string>
+    <string name="booked">تم الحجز بنجاح ✨</string>
+
+    <string name="switch_language">تغيير اللغة</string>
+    <string name="greeting">مرحباً %1$s</string>
+    <string name="appointment">موعد</string>
+    <string name="status_pending">قيد الانتظار</string>
+    <string name="status_confirmed">مؤكد</string>
+    <string name="status_completed">مكتمل</string>
+    <string name="status_cancelled">ملغي</string>
+    <string name="duration_mins">المدة: %1$s دقيقة</string>
+    <string name="unexpected_response">استجابة غير متوقعة من الخادم</string>
+    <string name="server_error">تعذّر الاتصال بالخادم. تحقق من الشبكة وعنوان السيرفر.</string>
+    <string name="lang_toggle_label">English</string>
+</resources>

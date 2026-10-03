@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="plum">#8E2B6E</color>
+    <color name="plum_dark">#3B0F34</color>
+    <color name="gold">#D4A373</color>
+    <color name="bg">#FBF7FA</color>
+    <color name="gray">#6B6070</color>
+    <color name="white">#FFFFFF</color>
+</resources>
